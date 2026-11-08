@@ -21,7 +21,7 @@
 I'm a full-stack developer from Algeria. I build web and mobile applications end to end — from the database schema and API to the interface — with a focus on clean architecture, good UX and code that is easy to maintain.
 
 - 🔭 Currently working on **Stag**, an internship platform connecting Algerian companies with university students
-- 🛍️ Built **DZ Shop**, a production-ready e-commerce store with instant checkout
+- 🛍️ Built **DZ Shop**, a complete e-commerce store with instant checkout
 - 🌱 Exploring **AI-assisted features** and **system design**
 - 🎯 Open to **internships and junior developer roles**
 - 📫 Reach me at **amirabada126@gmail.com**
