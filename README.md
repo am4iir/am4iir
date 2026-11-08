@@ -61,7 +61,7 @@ Online clothing store with instant checkout: product catalog, cart, delivery by 
 
 `Next.js 15` · `React 19` · `TypeScript` · `Neon PostgreSQL` · `Tailwind CSS`
 
-→ [View repository](https://github.com/am4iir/dzshoop)
+→ [View repository](https://github.com/am4iir/dzshoop) · [Live demo](https://dzshoop.vercel.app)
 
 ### 🎪 Eventoo — University Event Platform
 University club event platform with an events REST API, modern animated landing page and responsive UI.
